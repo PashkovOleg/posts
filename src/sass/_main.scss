@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap&subset=cyrillic");
+
+html {
+  body {
+    font-family: $font;
+    color: $c--black;
+    font-size: 1rem;
+    font-style: normal;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+}
